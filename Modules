@@ -1,0 +1,5 @@
+# CLOUD SERVER - In this module, the Server login by using valid user name and password. After login successful he can do some operations.
+# VIEW AND AUTHORIZE USERS - In this, the admin can view the user’s details such as, user name, email, address and admin authorizes the user.
+# PHR OWNER - In this module, there are n numbers of Owners are present. Owner should register before doing any operations. like View Profile, Add Patient Details, View Patient Details, View Key Requests, and View Clinical Reports.
+# PHR USER - Once Login is successful user will do some operations like View Profile, Request Key, View Access Control, View Clinical Reports, and View Patient Details.
+
